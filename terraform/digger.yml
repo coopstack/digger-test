@@ -1,0 +1,5 @@
+projects:
+ - name: stack1
+   dir: terraform/stack1
+-name: stack2
+   dir: terraform/stack2
