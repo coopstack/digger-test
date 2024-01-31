@@ -1,4 +1,5 @@
 variable "dog_name" {
-  type = string
-  description = "the dog's name from stack1"
+  type        = string
+  description = "The dog's name from stack1"
+  default     = null
 }
